@@ -1,5 +1,11 @@
 # Simple command line example for jMISB
 
+## Archived
+
+The content of this project has been added to jMISB as an example. Refer to that.
+
+## Background
+
 This is demonstration / example code for <https://github.com/WestRidgeSystems/jmisb>
 
 It does a command line dump of the KLV metadata in a file.
